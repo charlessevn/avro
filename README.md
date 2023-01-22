@@ -70,3 +70,12 @@ To contribute to Avro, please read:
 [codeql java img]:       https://github.com/apache/avro/actions/workflows/codeql-java-analysis.yml/badge.svg
 [codeql javascript img]: https://github.com/apache/avro/actions/workflows/codeql-js-analysis.yml/badge.svg
 [codeql python img]:     https://github.com/apache/avro/actions/workflows/codeql-py-analysis.yml/badge.svg
+
+
+llalsldasd
+
+String
+
+
+
+dasdasd
